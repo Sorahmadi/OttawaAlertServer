@@ -4,8 +4,6 @@
 
 This tool alerts users whenever there is a new power outage, when a power outage has been resolved, and when there are no more outages.
 
-Discord was used because it was readily available for my friend and his co-workers to use.
-
 # Set-up
 
 1. To get started, create a Discord bot, add it to a server, copy its `TOKEN` and replace the text `"REDACTED"` in `main.js` on `line 73`.
